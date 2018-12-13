@@ -1,6 +1,5 @@
 import React from 'react'
 import PropTypes from 'prop-types';
-import ChatWindow from "./ChatWindow";
 
 class SendMessageForm extends React.Component {
     state = {
